@@ -1,5 +1,5 @@
-#ifndef ADC_H
-#define ADC_H
+#ifndef adc_H
+#define adc_H
 #include "stm32f103xb.h"
 
 void adc_init(int pin);
